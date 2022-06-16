@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
  
 {{< tdclose >}}
 {{< tdopen >}}
-Table of Contents and Acknowledgement ([PDF]({{< baseurl >}}/resources/01_contents_cvr))
+Table of Contents and Acknowledgement ({{% resource_link 42cac550-0b18-2c7a-f180-43576438c7f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Table of Contents and Acknowledgement ([PDF]({{< baseurl >}}/resources/01_conten
 **0**
 {{< tdclose >}}
 {{< tdopen >}}
-**Prelude: Introduction and Review of Unified Engineering Thermodynamics** ([PDF]({{< baseurl >}}/resources/02_part0))
+**Prelude: Introduction and Review of Unified Engineering Thermodynamics** ({{% resource_link a2f64bb0-278f-96aa-7bf8-07624ebaabc7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Table of Contents and Acknowledgement ([PDF]({{< baseurl >}}/resources/01_conten
 1a
 {{< tdclose >}}
 {{< tdopen >}}
-Background to the Second Law of Thermodynamics ([PDF]({{< baseurl >}}/resources/03_part1a_to_cms))
+Background to the Second Law of Thermodynamics ({{% resource_link 7ad40d40-87bf-332c-f6da-225f14cfd565 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Background to the Second Law of Thermodynamics ([PDF]({{< baseurl >}}/resources/
 1b
 {{< tdclose >}}
 {{< tdopen >}}
-The Second Law of Thermodynamics ([PDF]({{< baseurl >}}/resources/04_part1b))
+The Second Law of Thermodynamics ({{% resource_link 0d600615-9833-22e7-58cd-9d75fa3b6758 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ The Second Law of Thermodynamics ([PDF]({{< baseurl >}}/resources/04_part1b))
 1c
 {{< tdclose >}}
 {{< tdopen >}}
-Applications of the Second Law ([PDF]({{< baseurl >}}/resources/05_part1c))
+Applications of the Second Law ({{% resource_link 43887003-168f-b3f8-55d7-88324fac0527 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Applications of the Second Law ([PDF]({{< baseurl >}}/resources/05_part1c))
 1d
 {{< tdclose >}}
 {{< tdopen >}}
-Interpretation of Entropy on the Microscopic Scale — The Connection between Randomness and Entropy ([PDF]({{< baseurl >}}/resources/06_part1d))
+Interpretation of Entropy on the Microscopic Scale — The Connection between Randomness and Entropy ({{% resource_link f6c66be3-9e41-64c4-67dc-4ec1fd6d53f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Interpretation of Entropy on the Microscopic Scale — The Connection between R
 2a
 {{< tdclose >}}
 {{< tdopen >}}
-Gas Power and Propulsion Cycles ([PDF]({{< baseurl >}}/resources/07_part2a))
+Gas Power and Propulsion Cycles ({{% resource_link 75666f92-4898-1634-a704-fdf257ef529a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ Gas Power and Propulsion Cycles ([PDF]({{< baseurl >}}/resources/07_part2a))
 2b
 {{< tdclose >}}
 {{< tdopen >}}
-Power Cycles with Two-Phase Media (Vapor Power Cycles) ([PDF]({{< baseurl >}}/resources/08_part2b))
+Power Cycles with Two-Phase Media (Vapor Power Cycles) ({{% resource_link c6a0eece-e3c1-6723-0a83-00d4ea99719f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Power Cycles with Two-Phase Media (Vapor Power Cycles) ([PDF]({{< baseurl >}}/re
 2c
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Thermochemistry ([PDF]({{< baseurl >}}/resources/09_part2c))
+Introduction to Thermochemistry ({{% resource_link 5f0215e9-1a0a-bd3b-968b-4602a1c4bace "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ Introduction to Thermochemistry ([PDF]({{< baseurl >}}/resources/09_part2c))
 **3**
 {{< tdclose >}}
 {{< tdopen >}}
-**Fundamentals of Heat Transfer** ([PDF]({{< baseurl >}}/resources/10_part3))
+**Fundamentals of Heat Transfer** ({{% resource_link 87d9f454-4b7f-d64a-7720-1382500d057c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +172,7 @@ Introduction to Thermal Radiation and Radiation Heat Transfer
  
 {{< tdclose >}}
 {{< tdopen >}}
-Index ([PDF]({{< baseurl >}}/resources/11_index))
+Index ({{% resource_link de0d55c8-6ceb-5bb1-6b26-e5bc10573179 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
