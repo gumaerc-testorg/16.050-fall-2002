@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section lists the recitations.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 2af60ea2-301a-605f-b399-896a0de17e88
 ---
@@ -24,7 +28,7 @@ RECITATIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 1 ([PDF]({{< baseurl >}}/resources/091202_rec1))
+Recitation 1 ({{% resource_link 7905ec5b-678b-bde2-1f70-31f6e7ca50b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ Recitation 1 ([PDF]({{< baseurl >}}/resources/091202_rec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 2 ([PDF]({{< baseurl >}}/resources/091902_rec2))
+Recitation 2 ({{% resource_link 67e63a92-e832-a9bb-1fc2-0210af97efe0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Recitation 2 ([PDF]({{< baseurl >}}/resources/091902_rec2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 3 ([PDF]({{< baseurl >}}/resources/092602_rec3))
+Recitation 3 ({{% resource_link e20bc910-6e0a-5988-1e17-b1965d29602d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ Recitation 3 ([PDF]({{< baseurl >}}/resources/092602_rec3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 4 ([PDF]({{< baseurl >}}/resources/100302_rec4))
+Recitation 4 ({{% resource_link ec16eb38-5123-b5c7-5c76-acd1f71e14b4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ Recitation 4 ([PDF]({{< baseurl >}}/resources/100302_rec4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 5 ([PDF]({{< baseurl >}}/resources/101002_rec5))
+Recitation 5 ({{% resource_link e82f74f7-b4cd-cd96-f462-1857b5b8ce40 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ Recitation 5 ([PDF]({{< baseurl >}}/resources/101002_rec5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 6 ([PDF]({{< baseurl >}}/resources/101602_rec6))
+Recitation 6 ({{% resource_link 36e3e50d-db44-26ef-4df8-74d46007ddd4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Recitation 6 ([PDF]({{< baseurl >}}/resources/101602_rec6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 7 ([PDF]({{< baseurl >}}/resources/102402_rec7))
+Recitation 7 ({{% resource_link 3a80d5a1-b48f-6686-9d46-b2695fb92fbe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +91,7 @@ Recitation 7 ([PDF]({{< baseurl >}}/resources/102402_rec7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 8 ([PDF]({{< baseurl >}}/resources/103102_rec8))
+Recitation 8 ({{% resource_link 5c7894ef-f6a8-3dd8-1c06-5951ed2eff9c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ Recitation 8 ([PDF]({{< baseurl >}}/resources/103102_rec8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 9 ([PDF]({{< baseurl >}}/resources/110702_rec9))
+Recitation 9 ({{% resource_link 87460fae-7a65-6f7b-1755-ad7205b922b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +109,7 @@ Recitation 9 ([PDF]({{< baseurl >}}/resources/110702_rec9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 10 ([PDF]({{< baseurl >}}/resources/111402_rec10))
+Recitation 10 ({{% resource_link c89f60f6-dd23-af74-e7ae-af34423a48e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +118,7 @@ Recitation 10 ([PDF]({{< baseurl >}}/resources/111402_rec10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 11 ([PDF]({{< baseurl >}}/resources/112102_rec11))
+Recitation 11 ({{% resource_link 4fc5cf0b-29aa-7470-31da-d701bc80c044 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +127,7 @@ Recitation 11 ([PDF]({{< baseurl >}}/resources/112102_rec11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 12 ([PDF]({{< baseurl >}}/resources/120502_rec12))
+Recitation 12 ({{% resource_link a3aa7346-4e85-3e18-86d1-3939c13ee4cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
