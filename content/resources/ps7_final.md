@@ -5,6 +5,7 @@ file: /courses/16-050-thermal-energy-fall-2002/c816075d58ca3cd751d223f59265f572_
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps7_final.pdf
 uid: c816075d-58ca-3cd7-51d2-23f59265f572
 ---
 Homework assignment.
-
