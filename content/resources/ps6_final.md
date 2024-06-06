@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/16-050-thermal-energy-fall-2002/37e2eb061ffa828e97251eedc0498e17_ps6_final.pdf
+file_size: 112861
 file_type: application/pdf
 learning_resource_types:
 - Recitations

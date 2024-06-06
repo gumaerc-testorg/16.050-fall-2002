@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes.
 file: /courses/16-050-thermal-energy-fall-2002/f6c66be39e4164c467dc4ec1fd6d53f8_06_part1d.pdf
+file_size: 130689
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
