@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes.
-file: /ol-ocw-studio-app/courses/16-050-thermal-energy-fall-2002/5f0215e91a0abd3b968b4602a1c4bace_09_part2c.pdf
+file: /courses/16-050-thermal-energy-fall-2002/5f0215e91a0abd3b968b4602a1c4bace_09_part2c.pdf
 file_size: 212218
 file_type: application/pdf
 learning_resource_types:

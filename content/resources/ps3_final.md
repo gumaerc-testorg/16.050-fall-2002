@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/16-050-thermal-energy-fall-2002/fa78abf57879f57714a6295dcf08abdf_ps3_final.pdf
+file: /courses/16-050-thermal-energy-fall-2002/fa78abf57879f57714a6295dcf08abdf_ps3_final.pdf
 file_size: 229780
 file_type: application/pdf
 learning_resource_types:
