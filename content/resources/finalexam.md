@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final examination.
-file: /ol-ocw-studio-app/courses/16-050-thermal-energy-fall-2002/c3f89617c4c41827441ef8dd5ce4dc9d_finalexam.pdf
+file: /courses/16-050-thermal-energy-fall-2002/c3f89617c4c41827441ef8dd5ce4dc9d_finalexam.pdf
 file_size: 482867
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz problems.
-file: /ol-ocw-studio-app/courses/16-050-thermal-energy-fall-2002/ed433c144356926f2d3b9664c9edd0df_quiz1.pdf
+file: /courses/16-050-thermal-energy-fall-2002/ed433c144356926f2d3b9664c9edd0df_quiz1.pdf
 file_size: 781770
 file_type: application/pdf
 learning_resource_types:
