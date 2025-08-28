@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Table of contents for a complete set of lecture notes for the course.
-file: /courses/16-050-thermal-energy-fall-2002/42cac5500b182c7af18043576438c7f8_01_contents_cvr.pdf
+file: /ol-ocw-studio-app/courses/16-050-thermal-energy-fall-2002/42cac5500b182c7af18043576438c7f8_01_contents_cvr.pdf
 file_size: 110053
 file_type: application/pdf
 learning_resource_types:
